@@ -275,6 +275,11 @@
 				DEVELOPMENT_TEAM = PGQ27XQ5YU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "The app needs the access";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +309,11 @@
 				DEVELOPMENT_TEAM = PGQ27XQ5YU;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSFaceIDUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationUsageDescription = "The app needs the access";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "The app needs the access";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
